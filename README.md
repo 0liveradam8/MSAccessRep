@@ -5,8 +5,8 @@ This repository is only used to demonstrate a program I've designed, and it is n
 
 The program consists of two parts:
 
-  DATARevision.mdb - This is the back-end database, where the data is stored. It is used on the host computer.
-  Revision2.mdb - This is the front-end database, which contains the UI and queries. It is used on both the host computer and the client computer.
+  - DATARevision.mdb - This is the back-end database, where the data is stored. It is used on the host computer.
+  - Revision2.mdb - This is the front-end database, which contains the UI and queries. It is used on both the host computer and the client computer.
   
 The data has been modified as it can't be shared publicly.
 
